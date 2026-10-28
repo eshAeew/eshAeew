@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- HERO DYNAMIC WAVE BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,17,24,28&height=220&section=header&text=eshAeew&fontSize=62&fontAlignY=36&desc=Creative%20Technologist%20%E2%80%A2%20AI%20%26%20Autonomous%20Systems%20%E2%80%A2%20Design%20Engineer&descAlignY=58&descSize=18&fontColor=ffffff&descColor=a5b4fc" alt="eshAeew Header Banner" width="100%" />
+<!-- HERO VECTOR BANNER -->
+<img src="./assets/banner.svg" alt="eshAeew Header Banner" width="100%" />
 
 <!-- KINETIC TYPING SVG HEADER -->
 <a href="https://github.com/eshAeew">
@@ -116,18 +116,11 @@ interface DeveloperTelemetry {
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshAeew&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=79c0ff&text_color=c9d1d9" alt="Top Languages" width="380" />
-    </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eshAeew&theme=tokyonight" alt="Profile Summary Card" width="380" />
+    <td align="center" colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshAeew&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=79c0ff&text_color=c9d1d9" alt="Top Languages" width="450" />
     </td>
   </tr>
 </table>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eshAeew&theme=tokyonight" alt="Productive Time Breakdown" width="800" />
 
 </div>
 
