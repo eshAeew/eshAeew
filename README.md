@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- HERO VECTOR BANNER -->
+<!-- HERO VECTOR BANNER (Self-Hosted in Repo) -->
 <img src="./assets/banner.svg" alt="eshAeew Header Banner" width="100%" />
 
 <!-- KINETIC TYPING SVG HEADER -->
@@ -15,47 +15,102 @@
   <a href="https://github.com/eshAeew"><img src="https://komarev.com/ghpvc/?username=eshAeew&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" /></a>
 </p>
 
+<img src="./assets/line.svg" width="100%" height="4" />
+
 </div>
 
 ---
 
-### ⚡ Signal & Engineering Focus
+### 🖐️ About Me & Engineering DNA
 
 ```typescript
 interface DeveloperTelemetry {
   handle: "eshAeew";
   role: "Creative Technologist & AI Systems Architect";
   coreDisciplines: [
-    "Autonomous AI Agents & Reasoning Loops",
-    "High-Performance WebGL Shaders & Canvas Art",
+    "Autonomous AI Agents & Cognitive Reasoning Loops",
+    "High-Performance WebGL Shaders & Procedural Canvas",
     "Full-Stack TypeScript & Next.js Architecture",
-    "LLM Fine-Tuning & High-Dimensional Embeddings"
+    "LLM Fine-Tuning & Vector Embeddings"
   ];
   philosophy: "Software isn't just logic—it's physics, feedback, and tactile intelligence.";
 }
 ```
 
-- 🧠 **Autonomous Intelligence**: Architecting **Peace-Agent**, an autonomous self-learning agent with cognitive reflection, dynamic tool invocation, and long-horizon execution.
-- 🪐 **Creative Shaders & 3D**: Creator of **[Wallpaper Lab](https://github.com/eshAeew/wallpaper-lab)**, a procedural celestial planet & fluid gradient synthesis engine deployed on Cloudflare edge.
-- ⚡ **Tactile Design Engineering**: Crafting ultra-responsive 120fps WebGL environments, refractive glass shaders, spring physics micro-interactions, and zero-sample procedural Web Audio feedback.
+- 🧠 **Autonomous Intelligence**: Architecting **Peace-Agent**, an autonomous self-learning agent with cognitive reflection, memory graphs, and goal-directed tool execution.
+- 🪐 **Creative Shaders & 3D**: Creator of **[Wallpaper Lab](https://github.com/eshAeew/wallpaper-lab)**, a procedural celestial planet & fluid gradient synthesis engine deployed globally on Cloudflare edge.
+- ⚡ **Tactile Design Engineering**: Crafting ultra-responsive 120fps WebGL canvas environments, refractive glass shaders, spring physics micro-interactions, and zero-sample procedural Web Audio feedback.
 - 🔬 **AI Optimization**: Fine-tuning open models (**Qwen3**, instruction datasets, DPO/SFT) and building vector embeddings with Google Gemini.
 - 📱 **Cross-Platform Engineering**: Shipping production systems spanning Android Native applications, enterprise HRMS portals, and real-time financial tracking platforms.
 
 ---
 
-### 🛸 Flagship Repositories & Engineering Showcase
+### 📌 Pinned Repositories
 
-| Project | Focus / Domain | Tech Stack | Highlights |
-| :--- | :--- | :--- | :--- |
-| **[Wallpaper Lab](https://github.com/eshAeew/wallpaper-lab)** | 🪐 Procedural WebGL Engine | `Astro` `WebGL` `Canvas` `Cloudflare Pages` | Real-time procedural celestial planet & multi-layer harmonic gradient engine. Live on edge. |
-| **[Peace-Agent](https://github.com/eshAeew/Peace-Agent)** | 🤖 Autonomous AI Agent | `Python` `Autonomous Loops` `LLM Tools` | Self-learning autonomous agent exploring long-horizon reasoning and environmental feedback. |
-| **[V0 Task Manager](https://github.com/eshAeew/V0-app-task-manager)** | ⚡ AI Productivity Suite | `Next.js` `Tailwind CSS` `Lucide` | Modular bento-grid task matrix with dark/light persistence and fluid workflow management. |
-| **[Hackathon SIMS 2026](https://github.com/eshAeew/College-Hackathon-SIMS-2026)** | 🏆 Full-Stack Platform | `TypeScript` `REST API` `Dashboard UI` | Real-time college hackathon management and team evaluation infrastructure. |
-| **[Financial & Stock Tracker](https://github.com/eshAeew/FinancialTracker)** | 📈 Analytics & FinTech | `Python` `Data Visualization` `APIs` | Personal wealth, asset allocation, and equity monitoring dashboard with market telemetry. |
+<div align="center">
+
+<a href="https://github.com/eshAeew/wallpaper-lab">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=eshAeew&repo=wallpaper-lab&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=79c0ff&text_color=c9d1d9" alt="Wallpaper Lab" />
+</a>
+<a href="https://github.com/eshAeew/V0-app-task-manager">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=eshAeew&repo=V0-app-task-manager&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=79c0ff&text_color=c9d1d9" alt="V0 Task Manager" />
+</a>
+
+<br/>
+
+<a href="https://github.com/eshAeew/College-Hackathon-SIMS-2026">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=eshAeew&repo=College-Hackathon-SIMS-2026&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=79c0ff&text_color=c9d1d9" alt="SIMS Hackathon Platform" />
+</a>
+<a href="https://github.com/eshAeew/FinancialTracker">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=eshAeew&repo=FinancialTracker&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=79c0ff&text_color=c9d1d9" alt="Financial Tracker" />
+</a>
+
+</div>
 
 ---
 
-### 🛠️ Arsenal & Visual Tech Stack
+### 💻 Curated Projects Matrix
+
+<details open>
+<summary><b>🪐 Creative Engineering, Shaders &amp; 3D</b></summary>
+<br/>
+
+| Preview | Project Name | Description | Tech Stack | Link |
+| :---: | :--- | :--- | :--- | :--- |
+| 🪐 | **Wallpaper Lab** | Procedural celestial planet & harmonic gradient wallpaper engine with live controls. | `Astro` `WebGL` `Canvas` `Cloudflare Pages` | [Repo](https://github.com/eshAeew/wallpaper-lab) • [Live App](https://wallpaper-lab.pages.dev) |
+| 🎨 | **Spatial UI & Soundboard** | 120fps spatial workspace featuring refractive glass shaders, kinetic typography, and 82 Web Audio synths. | `React 19` `Three.js` `Framer Motion` `Web Audio` | [Source Code](https://github.com/eshAeew/portfoliowebsite) |
+| 🌀 | **Chaos Canvas & Particles** | Real-time generative art canvas simulations and desktop particle physics. | `HTML5 Canvas` `JavaScript` `Physics Math` | [Workspace View](https://github.com/eshAeew) |
+
+</details>
+
+<details open>
+<summary><b>🤖 Autonomous AI &amp; Machine Learning</b></summary>
+<br/>
+
+| Preview | Project Name | Description | Tech Stack | Link |
+| :---: | :--- | :--- | :--- | :--- |
+| 🤖 | **Peace-Agent** | Autonomous self-learning agent with cognitive reflection, dynamic tool calling, and memory graphs. | `Python` `LangChain` `Autonomous Loops` | [Repo](https://github.com/eshAeew/Peace-Agent) |
+| 🧠 | **Qwen3 Fine-Tuning** | Parameter-efficient fine-tuning (PEFT/LoRA) and instruction alignment on Qwen models. | `PyTorch` `Hugging Face` `Transformers` | [Workspace View](https://github.com/eshAeew) |
+| 📊 | **Neural Network Visualizer** | Interactive node & weight architecture inspector for feedforward and backprop passes. | `Python` `Data Visualization` `Math` | [Workspace View](https://github.com/eshAeew) |
+
+</details>
+
+<details open>
+<summary><b>⚡ Full-Stack SaaS &amp; Developer Tools</b></summary>
+<br/>
+
+| Preview | Project Name | Description | Tech Stack | Link |
+| :---: | :--- | :--- | :--- | :--- |
+| ⚡ | **V0 Task Manager** | Modular AI-native bento-grid productivity console with theme persistence and dynamic filters. | `Next.js` `Tailwind CSS` `Lucide Icons` | [Repo](https://github.com/eshAeew/V0-app-task-manager) |
+| 🏆 | **SIMS Hackathon Platform** | Real-time hackathon management portal, team registration, and evaluation infrastructure. | `TypeScript` `REST API` `Dashboard UI` | [Repo](https://github.com/eshAeew/College-Hackathon-SIMS-2026) |
+| 🛠️ | **Bauhaus & Dev Tools** | Suite of web developer utilities: color palette synthesizer, font dev tools, and meta previewer. | `TypeScript` `CSS3` `Utility Stack` | [Workspace View](https://github.com/eshAeew) |
+| 📈 | **Financial & Stock Tracker** | Personal wealth management, asset allocation, and stock market monitoring dashboard. | `Python` `Financial APIs` `Analytics` | [Repo](https://github.com/eshAeew/FinancialTracker) |
+
+</details>
+
+---
+
+### 🛠️ Visual Tech Arsenal
 
 <div align="center">
 
@@ -102,7 +157,7 @@ interface DeveloperTelemetry {
 
 ---
 
-### 📊 Real-Time Telemetry & Performance
+### 📊 Real-Time GitHub Telemetry
 
 <div align="center">
 
@@ -126,6 +181,34 @@ interface DeveloperTelemetry {
 
 ---
 
+### 🎮 Arcade Contribution Playground
+
 <div align="center">
+
+<h4>🕹️ PAC-MAN CONTRIBUTION GRAPH</h4>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/pacman-contribution-graph.svg">
+  <img alt="Pac-Man Contribution Graph" src="./assets/pacman-contribution-graph-dark.svg" width="100%">
+</picture>
+
+<br/><br/>
+
+<h4>🐍 CONTRIBUTION SNAKE GRID</h4>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-contribution-grid-snake.svg">
+  <img alt="Contribution Snake Grid" src="./assets/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="./assets/line.svg" width="100%" height="4" />
+  <br/><br/>
   <sub>Engineered with precision & craft • Built by <a href="https://github.com/eshAeew"><b>@eshAeew</b></a></sub>
 </div>
