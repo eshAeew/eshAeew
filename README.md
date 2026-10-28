@@ -12,6 +12,7 @@
   <a href="mailto:thewebdevs.in@gmail.com"><img src="https://img.shields.io/badge/Email-thewebdevs.in%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/eshAeew"><img src="https://img.shields.io/badge/GitHub-eshAeew-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://wallpaper-lab.pages.dev"><img src="https://img.shields.io/badge/Live_Engine-Wallpaper_Lab-4f46e5?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="Wallpaper Lab Live" /></a>
+  <a href="https://github.com/eshAeew"><img src="https://komarev.com/ghpvc/?username=eshAeew&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" /></a>
 </p>
 
 </div>
@@ -54,9 +55,15 @@ interface DeveloperTelemetry {
 
 ---
 
-### 🛠️ Arsenal & Tech Stack
+### 🛠️ Arsenal & Visual Tech Stack
 
 <div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,react,nextjs,ts,js,threejs,tailwind,nodejs,django,postgres,cloudflare,android,git,github,vite,figma,postman&theme=dark" alt="Tech Stack Icons" />
+</a>
+
+<br/><br/>
 
 #### 🧠 Artificial Intelligence & Agentic Workflows
 <p>
@@ -95,7 +102,7 @@ interface DeveloperTelemetry {
 
 ---
 
-### 📊 Real-Time Telemetry & Activity
+### 📊 Real-Time Telemetry & Performance
 
 <div align="center">
 
@@ -109,24 +116,19 @@ interface DeveloperTelemetry {
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
+    <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshAeew&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=79c0ff&text_color=c9d1d9" alt="Top Languages" width="380" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eshAeew&theme=tokyonight" alt="Profile Summary Card" width="380" />
     </td>
   </tr>
 </table>
 
-</div>
+<br/>
 
----
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eshAeew&theme=tokyonight" alt="Productive Time Breakdown" width="800" />
 
-### 🐍 Contribution Activity Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eshAeew/eshAeew/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eshAeew/eshAeew/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/eshAeew/eshAeew/output/github-contribution-grid-snake-dark.svg">
-  </picture>
 </div>
 
 ---
